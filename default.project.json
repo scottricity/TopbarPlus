@@ -7,7 +7,7 @@
       "$className": "ReplicatedStorage",
 
       "Icon": {
-        "$path": "src/Icon"
+        "$path": "Icon"
       }
     }
   }
