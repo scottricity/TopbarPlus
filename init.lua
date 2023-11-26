@@ -24,6 +24,7 @@ end
 local Icon = {}
 Icon.__index = Icon
 local IconController = require(iconModule.IconController)
+Icon.IconController = IconController
 local Signal = require(iconModule.Signal)
 local Maid = require(iconModule.Maid)
 local TopbarPlusGui = require(iconModule.TopbarPlusGui)
